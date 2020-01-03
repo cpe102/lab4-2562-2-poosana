@@ -1,2 +1,2 @@
-# NAME: _Poosana  Thassanavisut_____________
-# STUDENT ID:__620612161___________
+# NAME: _Poosana  Thassanavisut
+# STUDENT ID:__620612161
